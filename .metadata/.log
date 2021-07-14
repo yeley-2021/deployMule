@@ -84,3 +84,6 @@ ExternalServiceCallException [statusCode=0, reasonPhrase=null, query={asset(grou
 
 !ENTRY org.mule.tooling.editor.model 1 0 2021-07-09 13:04:10.431
 !MESSAGE Unknow Stereotype [org.mule.tooling.client.api.extension.model.StereotypeModel@de88bef[type=VALIDATION,namespace=MUNIT,parent=<null>]]. Element path will be associated to processorsThis may affect how debugger works.
+
+!ENTRY org.mule.tooling.ui.contribution.munit 1 1 2021-07-09 14:33:59.167
+!MESSAGE Deleting MUnit temporary folder in C:\Users\deejay\AppData\Local\Temp\munit-temp-dir
